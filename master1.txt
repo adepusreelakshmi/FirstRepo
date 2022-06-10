@@ -1,0 +1,2 @@
+My master 1 file
+this is for learning Git
